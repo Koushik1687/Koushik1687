@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Koushik Paul
 - 👀 I’m interested in C, C++, Java(OOP)
-- 🌱 I’m currently learning BCA
+- 🌱 I’m currently learning MCA
 - 📫 You can reach me koushikp72@gmail.com
 
 <!---
